@@ -1,0 +1,8 @@
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\out\Zapatillas.exe
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\out\Zapatillas.dll
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\out\Zapatillas.deps.json
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\out\Zapatillas.runtimeconfig.json
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\out\Zapatillas.pdb
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\out\Newtonsoft.Json.dll
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\out\Spectre.Console.dll
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\out\Wcwidth.dll

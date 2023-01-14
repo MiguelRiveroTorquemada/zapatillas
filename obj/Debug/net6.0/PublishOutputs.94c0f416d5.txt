@@ -1,0 +1,8 @@
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\bin\Debug\net6.0\publish\Zapatillas.exe
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\bin\Debug\net6.0\publish\Zapatillas.dll
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\bin\Debug\net6.0\publish\Zapatillas.deps.json
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\bin\Debug\net6.0\publish\Zapatillas.runtimeconfig.json
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\bin\Debug\net6.0\publish\Zapatillas.pdb
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\bin\Debug\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\bin\Debug\net6.0\publish\Spectre.Console.dll
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Zapatillas\bin\Debug\net6.0\publish\Wcwidth.dll

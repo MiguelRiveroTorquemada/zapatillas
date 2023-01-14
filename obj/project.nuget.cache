@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RendEfDKyBPQdXkguGAf5e+AUsRBaLF6xHcNvlpMctwcKqYUBUvejrjPYiEyn9ryNj+LtaRkxD1VUlNIwAw5Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrea\\Desktop\\daw3\\PracticasEnero\\Zapatillas\\Zapatillas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrea\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Andrea\\.nuget\\packages\\spectre.console\\0.42.0\\spectre.console.0.42.0.nupkg.sha512",
+    "C:\\Users\\Andrea\\.nuget\\packages\\wcwidth\\0.2.0\\wcwidth.0.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

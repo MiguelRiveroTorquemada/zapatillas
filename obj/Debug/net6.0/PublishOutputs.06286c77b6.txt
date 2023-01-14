@@ -1,0 +1,8 @@
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Servidor\bin\Debug\net6.0\publish\Servidor.exe
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Servidor\bin\Debug\net6.0\publish\Servidor.dll
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Servidor\bin\Debug\net6.0\publish\Servidor.deps.json
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Servidor\bin\Debug\net6.0\publish\Servidor.runtimeconfig.json
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Servidor\bin\Debug\net6.0\publish\Servidor.pdb
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Servidor\bin\Debug\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Servidor\bin\Debug\net6.0\publish\Spectre.Console.dll
+C:\Users\Andrea\Desktop\DAW3\PracticasEnero\Servidor\bin\Debug\net6.0\publish\Wcwidth.dll
